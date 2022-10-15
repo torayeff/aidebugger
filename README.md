@@ -1,14 +1,15 @@
-# AIDebugger: Simple AI Debugger based on OpenAI GPT-3
+# AIDebugger 
+Simple AI Debugger based on OpenAI GPT-3
 
-# Install
+## Install
 ```
 pip install -r requirements.txt
 ```
 
-# Usage
+## Usage
 ```
 python aidebugger.py
 ```
 
-# Screenshot
+## Screenshot
 ![Example Image](example.png)
